@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    height: max-content;
+    background-color: black;
+    overflow: hidden;
+  }
+  
+  span {
+    background: url("https://cdn4.iconfinder.com/data/icons/small-n-flat/24/heart-512.png");
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-size: cover;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    animation: heartAnimation 3s linear;
+    pointer-events: none;
+  }
+  
+  @keyframes heartAnimation {
+    0% {
+      transform: translate(-50%, -50%);
+      opacity: 1;
+
+    }
+    100%{
+      transform: translate(-50%, -1000%);
+      opacity: 0;
+    }
+  }

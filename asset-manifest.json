@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HappyAnniversary/static/css/main.b15f1284.css",
+    "main.css": "/HappyAnniversary/static/css/main.8d98eba3.css",
     "main.js": "/HappyAnniversary/static/js/main.be744b63.js",
     "static/js/453.bb828c5d.chunk.js": "/HappyAnniversary/static/js/453.bb828c5d.chunk.js",
     "static/media/Image6.png": "/HappyAnniversary/static/media/Image6.42771ac06d40821414b8.png",
@@ -29,12 +29,12 @@
     "static/media/Image16.png": "/HappyAnniversary/static/media/Image16.8b0b7d2309127e4b1e45.png",
     "static/media/Image1.png": "/HappyAnniversary/static/media/Image1.e305df94464a8d10aa9a.png",
     "index.html": "/HappyAnniversary/index.html",
-    "main.b15f1284.css.map": "/HappyAnniversary/static/css/main.b15f1284.css.map",
+    "main.8d98eba3.css.map": "/HappyAnniversary/static/css/main.8d98eba3.css.map",
     "main.be744b63.js.map": "/HappyAnniversary/static/js/main.be744b63.js.map",
     "453.bb828c5d.chunk.js.map": "/HappyAnniversary/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b15f1284.css",
+    "static/css/main.8d98eba3.css",
     "static/js/main.be744b63.js"
   ]
 }

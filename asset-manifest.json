@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/HappyAnniversary/static/css/main.b15f1284.css",
+    "main.js": "/HappyAnniversary/static/js/main.be744b63.js",
+    "static/js/453.bb828c5d.chunk.js": "/HappyAnniversary/static/js/453.bb828c5d.chunk.js",
+    "static/media/Image6.png": "/HappyAnniversary/static/media/Image6.42771ac06d40821414b8.png",
+    "static/media/Image9.png": "/HappyAnniversary/static/media/Image9.be22d09e955e8ea2323d.png",
+    "static/media/Image2.png": "/HappyAnniversary/static/media/Image2.40a6dac29d648e3c1ae3.png",
+    "static/media/Image18.png": "/HappyAnniversary/static/media/Image18.ecf3c2dd48dca15a6b3a.png",
+    "static/media/Image15.png": "/HappyAnniversary/static/media/Image15.dd8283f287e3a61236ea.png",
+    "static/media/Image8.png": "/HappyAnniversary/static/media/Image8.055cff2f8f8f598bf134.png",
+    "static/media/Image21.png": "/HappyAnniversary/static/media/Image21.9425736f614ef6796873.png",
+    "static/media/Image11.png": "/HappyAnniversary/static/media/Image11.64b513410cc3040a3247.png",
+    "static/media/Image19.png": "/HappyAnniversary/static/media/Image19.ad314e59353c08b7076c.png",
+    "static/media/Image10.png": "/HappyAnniversary/static/media/Image10.f8e9d261eb6b80ae2dbb.png",
+    "static/media/Image5.png": "/HappyAnniversary/static/media/Image5.d991aadbf4147a38ee81.png",
+    "static/media/Image24.png": "/HappyAnniversary/static/media/Image24.2738b76aa67da68c1fdb.png",
+    "static/media/Image7.png": "/HappyAnniversary/static/media/Image7.2750a974dc1c9d2642a8.png",
+    "static/media/Image4.png": "/HappyAnniversary/static/media/Image4.42881020854f3264d31c.png",
+    "static/media/Image22.png": "/HappyAnniversary/static/media/Image22.7b90b5b07e4b8b6b570c.png",
+    "static/media/Image14.png": "/HappyAnniversary/static/media/Image14.e19602795402614f6dc3.png",
+    "static/media/Image20.png": "/HappyAnniversary/static/media/Image20.5dbd8322ae902276ceb3.png",
+    "static/media/Image13.png": "/HappyAnniversary/static/media/Image13.19d995e2cbcb6cfef661.png",
+    "static/media/Image12.png": "/HappyAnniversary/static/media/Image12.6f13740d3fbb1939e72c.png",
+    "static/media/Image3.png": "/HappyAnniversary/static/media/Image3.c4e12a9b2ad99c3fa800.png",
+    "static/media/Image25.png": "/HappyAnniversary/static/media/Image25.4dee37eda035049a79c0.png",
+    "static/media/Image17.png": "/HappyAnniversary/static/media/Image17.7e79ab17143cd53adf68.png",
+    "static/media/Image23.png": "/HappyAnniversary/static/media/Image23.560fc2620b4ff64f4c62.png",
+    "static/media/Image16.png": "/HappyAnniversary/static/media/Image16.8b0b7d2309127e4b1e45.png",
+    "static/media/Image1.png": "/HappyAnniversary/static/media/Image1.e305df94464a8d10aa9a.png",
+    "index.html": "/HappyAnniversary/index.html",
+    "main.b15f1284.css.map": "/HappyAnniversary/static/css/main.b15f1284.css.map",
+    "main.be744b63.js.map": "/HappyAnniversary/static/js/main.be744b63.js.map",
+    "453.bb828c5d.chunk.js.map": "/HappyAnniversary/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15f1284.css",
+    "static/js/main.be744b63.js"
+  ]
+}
